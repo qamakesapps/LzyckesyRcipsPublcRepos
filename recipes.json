@@ -1,0 +1,1641 @@
+{
+  "version": 1,
+  "recipes": [
+    {
+      "id": "cheesy-tomato-pasta",
+      "name": "Cheesy Tomato Pasta",
+      "emoji": "🍝",
+      "diet": "vegetarian",
+      "moods": [
+        "cozy",
+        "cheesy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 7,
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti or any pasta",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Jar of marinara sauce",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Shredded mozzarella",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Garlic powder",
+          "note": "a shake",
+          "pantry": true
+        },
+        {
+          "name": "Salt",
+          "note": "a big pinch",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Fill your pot with water and crank the heat to high.",
+          "check": "Ready when big bubbles roll nonstop."
+        },
+        {
+          "instruction": "Add a big pinch of salt, then dump in the pasta.",
+          "check": "Stir once so nothing sticks together.",
+          "timerSeconds": 600
+        },
+        {
+          "instruction": "Scoop out a mug of the pasta water, then drain the rest.",
+          "check": "Pasta should bend but still have a tiny bite."
+        },
+        {
+          "instruction": "Back in the pot on low: stir in the sauce, garlic powder and a splash of pasta water.",
+          "check": "Sauce should cling to the noodles, no dry spots."
+        },
+        {
+          "instruction": "Turn off the heat. Sprinkle in the cheese and stir until stretchy.",
+          "check": "Cheese strings when you lift the fork. Done!"
+        }
+      ],
+      "panicFixes": {
+        "sticking": "Add a splash of that saved pasta water and stir hard. The starch unsticks everything.",
+        "watery": "Leave the pot on low for 2 minutes, stirring. The cheese and pasta soak it up."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "garlic-sesame-noodles",
+      "name": "Garlic Sesame Noodles",
+      "emoji": "🍜",
+      "diet": "vegan",
+      "moods": [
+        "cozy",
+        "spicy"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 5,
+      "allergens": [
+        "gluten",
+        "soy",
+        "sesame"
+      ],
+      "ingredients": [
+        {
+          "name": "Instant ramen noodles (toss the flavour packet)",
+          "quantity": 2,
+          "unit": "blocks"
+        },
+        {
+          "name": "Frozen mixed veggies",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Jarred minced garlic",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Chili flakes",
+          "note": "optional",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Fill your pot with water and crank the heat to high.",
+          "check": "Ready when big bubbles roll nonstop."
+        },
+        {
+          "instruction": "Drop in the noodles and frozen veggies.",
+          "check": "Noodles loosen and veggies turn bright.",
+          "timerSeconds": 180
+        },
+        {
+          "instruction": "Drain everything in the sink, then put it back in the empty pot.",
+          "check": "No puddle of water left at the bottom."
+        },
+        {
+          "instruction": "Stir in sesame oil, soy sauce, garlic and chili flakes.",
+          "check": "Noodles look glossy and smell nutty. Done!"
+        }
+      ],
+      "panicFixes": {
+        "bland": "Another splash of soy sauce plus a few drops of sesame oil. Those two are the whole flavour.",
+        "tooSpicy": "Stir in a spoon of peanut butter. Instant creamy, instant calmer."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "crispy-tofu-skillet",
+      "name": "Crispy Tofu Veggie Skillet",
+      "emoji": "🥘",
+      "diet": "vegan",
+      "moods": [
+        "cozy"
+      ],
+      "minutes": 20,
+      "noChop": false,
+      "dishes": 2,
+      "dishesLabel": "1 pan, 1 board",
+      "priceUSD": 8,
+      "allergens": [
+        "soy"
+      ],
+      "contains": [
+        "tofu"
+      ],
+      "ingredients": [
+        {
+          "name": "Block of extra-firm tofu",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Bag of stir-fry veggies",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "pantry": true
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Squeeze the tofu over the sink with a paper towel, then cut it into dice-sized cubes.",
+          "check": "Cubes feel dry-ish, not dripping."
+        },
+        {
+          "instruction": "Toss the cubes in cornstarch right on the board.",
+          "check": "Each cube has a light powdery coat."
+        },
+        {
+          "instruction": "Heat the oil in the pan on medium-high, then add the tofu. Don't touch it.",
+          "check": "Edges turn golden underneath.",
+          "timerSeconds": 300
+        },
+        {
+          "instruction": "Flip the cubes, then add the veggies.",
+          "check": "Veggies sizzle and turn bright.",
+          "timerSeconds": 240
+        },
+        {
+          "instruction": "Splash in the soy sauce and toss.",
+          "check": "Tofu is crispy outside, sauce coats everything. Done!"
+        }
+      ],
+      "panicFixes": {
+        "sticking": "Tofu sticks before it crisps. Wait 1 more minute, then slide the spatula under it. It lets go when it's ready.",
+        "burning": "Turn the heat to medium and add the veggies now. Their water cools the pan right down."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "black-bean-quesadilla",
+      "name": "Black Bean Quesadilla",
+      "emoji": "🫓",
+      "diet": "vegetarian",
+      "moods": [
+        "cheesy",
+        "spicy"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pan",
+      "priceUSD": 6,
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "contains": [
+        "beans"
+      ],
+      "ingredients": [
+        {
+          "name": "Large flour tortillas",
+          "quantity": 2
+        },
+        {
+          "name": "Can of black beans, drained",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Shredded cheddar",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Jar of salsa",
+          "note": "for dipping"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Drain the beans and mash them a bit with a fork, right in the can.",
+          "check": "Chunky, not smooth. Lazy is correct."
+        },
+        {
+          "instruction": "Spread beans and cheese on half of each tortilla, then fold over.",
+          "check": "Cheese peeks out the edges."
+        },
+        {
+          "instruction": "Put the pan on medium. No oil needed. Add one quesadilla.",
+          "check": "Bottom turns golden and crisp.",
+          "timerSeconds": 150
+        },
+        {
+          "instruction": "Flip it and cook the other side, then repeat with the second.",
+          "check": "Cheese is fully melted inside.",
+          "timerSeconds": 150
+        },
+        {
+          "instruction": "Cut into wedges and dunk in salsa.",
+          "check": "Crunchy outside, gooey inside. Done!"
+        }
+      ],
+      "panicFixes": {
+        "burning": "Lower to medium-low. Tortillas brown fast; flip as soon as you see golden spots.",
+        "missing": "No beans? Just do cheese. No cheese? Beans plus salsa inside still works."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "chickpea-curry",
+      "name": "Coconut Chickpea Curry",
+      "emoji": "🍛",
+      "diet": "vegan",
+      "moods": [
+        "cozy",
+        "spicy"
+      ],
+      "minutes": 20,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 7,
+      "contains": [
+        "chickpeas",
+        "coconut"
+      ],
+      "ingredients": [
+        {
+          "name": "Can of chickpeas, drained",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Can of coconut milk",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Curry paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Frozen spinach",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Microwave rice pouches",
+          "quantity": 2
+        },
+        {
+          "name": "Salt",
+          "note": "a pinch",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Stir curry paste into a splash of the coconut milk in your pot on medium.",
+          "check": "Smells toasty and fragrant.",
+          "timerSeconds": 60
+        },
+        {
+          "instruction": "Pour in the rest of the coconut milk, chickpeas and frozen spinach.",
+          "check": "Starts bubbling gently around the edges."
+        },
+        {
+          "instruction": "Let it simmer, stirring now and then.",
+          "check": "Sauce thickens enough to coat the spoon.",
+          "timerSeconds": 600
+        },
+        {
+          "instruction": "Microwave the rice pouches while it simmers.",
+          "check": "Rice is hot and fluffy."
+        },
+        {
+          "instruction": "Taste, add salt, and spoon it over the rice.",
+          "check": "Creamy, warm, a little kick. Done!"
+        }
+      ],
+      "panicFixes": {
+        "watery": "Leave the lid off and simmer 5 more minutes. Coconut curry thickens a lot as it cooks.",
+        "tooSpicy": "Add a splash more coconut milk or a spoon of yogurt on top."
+      },
+      "baseServings": 2,
+      "allergens": []
+    },
+    {
+      "id": "hummus-veggie-wrap",
+      "name": "Hummus Crunch Wrap",
+      "emoji": "🌯",
+      "diet": "vegan",
+      "moods": [
+        "fresh"
+      ],
+      "minutes": 5,
+      "noChop": true,
+      "dishes": 0,
+      "dishesLabel": "nothing",
+      "priceUSD": 5,
+      "allergens": [
+        "gluten",
+        "sesame"
+      ],
+      "contains": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        {
+          "name": "Large tortillas",
+          "quantity": 2
+        },
+        {
+          "name": "Hummus",
+          "quantity": 6,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Bag of shredded coleslaw mix",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Baby spinach",
+          "quantity": 1,
+          "unit": "handful"
+        },
+        {
+          "name": "Hot sauce or lemon",
+          "note": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Smear hummus all over a tortilla, edge to edge.",
+          "check": "No dry spots. Hummus is the glue."
+        },
+        {
+          "instruction": "Pile on slaw and spinach down the middle.",
+          "check": "Looks like too much. That's right."
+        },
+        {
+          "instruction": "Fold the sides in, then roll it up tight.",
+          "check": "Holds together when you pick it up. Done!"
+        }
+      ],
+      "panicFixes": {
+        "bland": "Hit it with hot sauce or a squeeze of lemon before rolling.",
+        "missing": "No slaw? Any salad bag, grated carrot or even crushed chips gives the crunch."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "beans-on-toast",
+      "name": "Cheesy Beans on Toast",
+      "emoji": "🍞",
+      "diet": "vegetarian",
+      "moods": [
+        "cozy",
+        "cheesy"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 small pot",
+      "priceUSD": 4,
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "contains": [
+        "beans"
+      ],
+      "ingredients": [
+        {
+          "name": "Can of baked beans",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Bread slices",
+          "quantity": 4
+        },
+        {
+          "name": "Shredded cheddar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Butter",
+          "note": "for the toast",
+          "pantry": true
+        },
+        {
+          "name": "Hot sauce",
+          "note": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Tip the beans into a small pot on medium.",
+          "check": "Bubbling gently, stir now and then.",
+          "timerSeconds": 240
+        },
+        {
+          "instruction": "Toast the bread and butter it.",
+          "check": "Golden and crunchy."
+        },
+        {
+          "instruction": "Pile the beans on the toast and sprinkle cheese on top.",
+          "check": "Cheese starts melting from the heat. Done!"
+        }
+      ],
+      "panicFixes": {
+        "burning": "Beans catch fast. Turn to low, stir from the bottom, and don't scrape the stuck layer in."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "cold-peanut-noodles",
+      "name": "Cold Peanut Noodles",
+      "emoji": "🥜",
+      "diet": "vegan",
+      "moods": [
+        "fresh",
+        "spicy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 2,
+      "dishesLabel": "1 pot, 1 bowl",
+      "priceUSD": 6,
+      "allergens": [
+        "gluten",
+        "peanuts",
+        "soy"
+      ],
+      "contains": [
+        "peanutButter"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti or rice noodles",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Peanut butter",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Rice vinegar or lime juice",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sriracha",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Bag of shredded carrots",
+          "quantity": 1,
+          "unit": "cup"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Fill your pot with water and crank the heat to high.",
+          "check": "Ready when big bubbles roll nonstop."
+        },
+        {
+          "instruction": "Cook the noodles.",
+          "check": "Soft with a tiny bite.",
+          "timerSeconds": 540
+        },
+        {
+          "instruction": "Meanwhile, whisk peanut butter, soy, vinegar, sriracha and 2 tbsp hot water in a big bowl.",
+          "check": "Smooth sauce, like melted ice cream."
+        },
+        {
+          "instruction": "Drain the noodles and rinse them under cold water.",
+          "check": "Cool to the touch, not sticky."
+        },
+        {
+          "instruction": "Toss noodles and carrots in the sauce.",
+          "check": "Every noodle is coated. Done!"
+        }
+      ],
+      "panicFixes": {
+        "watery": "Stir in another spoon of peanut butter.",
+        "sticking": "Sauce too thick? Add hot water a spoon at a time and stir."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "mug-mac-cheese",
+      "name": "Microwave Mug Mac & Cheese",
+      "emoji": "🧀",
+      "diet": "vegetarian",
+      "moods": [
+        "cheesy",
+        "cozy"
+      ],
+      "minutes": 5,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 mug",
+      "priceUSD": 2,
+      "baseServings": 1,
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "Small pasta (macaroni)",
+          "quantity": 0.33,
+          "unit": "cup"
+        },
+        {
+          "name": "Water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "pantry": true
+        },
+        {
+          "name": "Milk",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Shredded cheddar",
+          "quantity": 0.33,
+          "unit": "cup"
+        },
+        {
+          "name": "Salt",
+          "note": "a pinch",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Put pasta, water and salt in a big mug.",
+          "check": "Water covers the pasta."
+        },
+        {
+          "instruction": "Microwave 2 minutes, stir, then 2 more minutes.",
+          "check": "Most of the water is gone, pasta is soft.",
+          "timerSeconds": 240
+        },
+        {
+          "instruction": "Stir in milk and cheese, microwave 30 more seconds.",
+          "check": "Melty and creamy. Done! Careful, the mug is hot."
+        }
+      ],
+      "panicFixes": {
+        "watery": "Microwave 30 more seconds and stir. Cheese thickens it as it cools.",
+        "burning": "Boiled over? Wipe the plate, stir, and microwave in 30 second bursts from now on."
+      },
+      "contains": []
+    },
+    {
+      "id": "spicy-black-bean-soup",
+      "name": "5-Can Spicy Bean Soup",
+      "emoji": "🥣",
+      "diet": "vegan",
+      "moods": [
+        "cozy",
+        "spicy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 7,
+      "contains": [
+        "beans",
+        "spicyHeat"
+      ],
+      "ingredients": [
+        {
+          "name": "Can of black beans",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Can of kidney beans",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Can of corn",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Can of diced tomatoes",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Jar of salsa",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Open every can. Drain the beans and corn.",
+          "check": "You now have a can army. Respect."
+        },
+        {
+          "instruction": "Dump everything into the pot with the cumin and 1 cup water.",
+          "check": "Looks chunky and colourful."
+        },
+        {
+          "instruction": "Bring it to a bubble, then turn down and simmer.",
+          "check": "Steaming and smells smoky.",
+          "timerSeconds": 600
+        },
+        {
+          "instruction": "Mash a few beans against the side with your spoon.",
+          "check": "Soup turns a bit thicker. Done!"
+        }
+      ],
+      "panicFixes": {
+        "tooSpicy": "Swirl in some coconut milk, yogurt, or eat it with plain tortilla chips.",
+        "bland": "Squeeze of lime and a pinch of salt. Bean soups love both."
+      },
+      "baseServings": 2,
+      "allergens": []
+    },
+    {
+      "id": "chickpea-smash-sandwich",
+      "name": "Chickpea Smash Sandwich",
+      "emoji": "🥪",
+      "diet": "vegan",
+      "moods": [
+        "fresh"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 bowl",
+      "priceUSD": 5,
+      "allergens": [
+        "gluten"
+      ],
+      "contains": [
+        "chickpeas"
+      ],
+      "ingredients": [
+        {
+          "name": "Can of chickpeas, drained",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Vegan mayo",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mustard",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Bread slices",
+          "quantity": 4
+        },
+        {
+          "name": "Salt and pepper",
+          "note": "to taste",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Smash the chickpeas in a bowl with a fork.",
+          "check": "Mostly crushed, a few chunky ones."
+        },
+        {
+          "instruction": "Stir in mayo, mustard, lemon, salt and pepper.",
+          "check": "Creamy like tuna salad."
+        },
+        {
+          "instruction": "Pile it onto bread and close it up.",
+          "check": "Thick, messy, perfect. Done!"
+        }
+      ],
+      "panicFixes": {
+        "bland": "More salt and lemon. Chickpeas need both.",
+        "watery": "Smash in a few more chickpeas or a crumbled cracker."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "veggie-fried-rice",
+      "name": "Lazy Veggie Fried Rice",
+      "emoji": "🍚",
+      "diet": "vegan",
+      "moods": [
+        "cozy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pan",
+      "priceUSD": 5,
+      "allergens": [
+        "soy"
+      ],
+      "ingredients": [
+        {
+          "name": "Microwave rice pouches (or leftover rice)",
+          "quantity": 2
+        },
+        {
+          "name": "Frozen peas & carrots",
+          "quantity": 1.5,
+          "unit": "cups"
+        },
+        {
+          "name": "Oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "pantry": true
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Jarred minced garlic",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sesame oil",
+          "note": "a drizzle, optional"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Heat oil in the pan on medium-high, then add garlic.",
+          "check": "Sizzles and smells amazing.",
+          "timerSeconds": 30
+        },
+        {
+          "instruction": "Add the frozen veggies and stir.",
+          "check": "Veggies are hot and bright.",
+          "timerSeconds": 180
+        },
+        {
+          "instruction": "Squeeze the rice out of the pouches into the pan, breaking up clumps.",
+          "check": "No big lumps left."
+        },
+        {
+          "instruction": "Leave it alone for a minute, then stir. Repeat twice.",
+          "check": "Some rice gets crispy brown bits.",
+          "timerSeconds": 180
+        },
+        {
+          "instruction": "Splash in soy sauce and toss.",
+          "check": "Every grain is light brown. Done!"
+        }
+      ],
+      "panicFixes": {
+        "sticking": "Rice sticks if the pan's too dry. Drizzle a little oil around the edge and wait 30 seconds."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "tomato-soup-grilled-cheese",
+      "name": "Tomato Soup + Grilled Cheese",
+      "emoji": "🥫",
+      "diet": "vegetarian",
+      "moods": [
+        "cozy",
+        "cheesy"
+      ],
+      "minutes": 20,
+      "noChop": true,
+      "dishes": 2,
+      "dishesLabel": "1 pot, 1 pan",
+      "priceUSD": 7,
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "Carton of tomato soup",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Bread slices",
+          "quantity": 4
+        },
+        {
+          "name": "Cheese slices",
+          "quantity": 4
+        },
+        {
+          "name": "Butter",
+          "quantity": 2,
+          "unit": "tbsp",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Pour the soup into the pot on low.",
+          "check": "Steaming, not boiling."
+        },
+        {
+          "instruction": "Butter one side of each bread slice.",
+          "check": "Butter faces out. Always."
+        },
+        {
+          "instruction": "Make sandwiches with cheese inside, butter outside. Into the pan on medium.",
+          "check": "Bottom is golden.",
+          "timerSeconds": 180
+        },
+        {
+          "instruction": "Flip and press down with the spatula.",
+          "check": "Cheese oozes at the edges.",
+          "timerSeconds": 180
+        },
+        {
+          "instruction": "Cut into strips and dunk.",
+          "check": "Dunk test passed. Done!"
+        }
+      ],
+      "panicFixes": {
+        "burning": "Bread browns quicker than cheese melts. Lower the heat and put a lid on so the cheese catches up."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "pesto-gnocchi",
+      "name": "One-Pan Pesto Gnocchi",
+      "emoji": "🌿",
+      "diet": "vegetarian",
+      "moods": [
+        "cozy",
+        "cheesy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pan",
+      "priceUSD": 8,
+      "allergens": [
+        "gluten",
+        "dairy",
+        "treeNuts"
+      ],
+      "ingredients": [
+        {
+          "name": "Pack of shelf-stable gnocchi",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Jar of pesto",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Frozen peas",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "pantry": true
+        },
+        {
+          "name": "Grated parmesan",
+          "note": "a handful"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Heat oil in the pan on medium-high and add gnocchi straight from the pack.",
+          "check": "They sizzle. Spread them out."
+        },
+        {
+          "instruction": "Leave them alone, then flip.",
+          "check": "Golden crispy spots on both sides.",
+          "timerSeconds": 300
+        },
+        {
+          "instruction": "Add peas and a splash of water. Stir.",
+          "check": "Peas turn bright green.",
+          "timerSeconds": 120
+        },
+        {
+          "instruction": "Turn off the heat and stir in the pesto. Top with parmesan.",
+          "check": "Glossy green coating. Done!"
+        }
+      ],
+      "panicFixes": {
+        "sticking": "Gnocchi stick until they crisp. Wait one more minute before flipping.",
+        "missing": "No pesto? Butter, garlic and parmesan does the job."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "sheet-pan-gnocchi",
+      "name": "Sheet Pan Gnocchi & Veg",
+      "emoji": "🍠",
+      "diet": "vegan",
+      "moods": [
+        "cozy"
+      ],
+      "minutes": 30,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 tray",
+      "priceUSD": 8,
+      "allergens": [
+        "gluten"
+      ],
+      "ingredients": [
+        {
+          "name": "Pack of shelf-stable gnocchi (check it's egg-free)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Bag of frozen roasting veg",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "name": "Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "pantry": true
+        },
+        {
+          "name": "Italian seasoning",
+          "quantity": 1,
+          "unit": "tsp",
+          "pantry": true
+        },
+        {
+          "name": "Salt",
+          "note": "a big pinch",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Turn the oven to 220°C / 425°F.",
+          "check": "Wait for the beep. Scroll your phone."
+        },
+        {
+          "instruction": "Dump gnocchi and frozen veg on a tray, drizzle oil, sprinkle seasoning and salt, toss with your hands.",
+          "check": "Everything is shiny."
+        },
+        {
+          "instruction": "Spread it out and roast.",
+          "check": "Spread in one layer, not piled.",
+          "timerSeconds": 1200
+        },
+        {
+          "instruction": "Shake the tray and roast a bit more.",
+          "check": "Gnocchi are puffed and golden.",
+          "timerSeconds": 300
+        },
+        {
+          "instruction": "Eat straight off the tray if you want.",
+          "check": "No judgement. Done!"
+        }
+      ],
+      "panicFixes": {
+        "watery": "Frozen veg let out water. Pour it off and roast 5 more minutes.",
+        "burning": "Move the tray one shelf down and lower the oven by 20°C."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "nacho-skillet",
+      "name": "Loaded Nacho Skillet",
+      "emoji": "🌮",
+      "diet": "vegetarian",
+      "moods": [
+        "cheesy",
+        "spicy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 oven-safe pan",
+      "priceUSD": 8,
+      "allergens": [
+        "dairy"
+      ],
+      "contains": [
+        "beans"
+      ],
+      "ingredients": [
+        {
+          "name": "Bag of tortilla chips",
+          "quantity": 4,
+          "unit": "handfuls"
+        },
+        {
+          "name": "Can of refried or black beans",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Shredded cheddar",
+          "quantity": 1.5,
+          "unit": "cups"
+        },
+        {
+          "name": "Jar of salsa",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Pickled jalapeños",
+          "note": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Turn the oven to 200°C / 400°F.",
+          "check": "Wait for the beep."
+        },
+        {
+          "instruction": "Layer chips, spoonfuls of beans, and cheese in the pan. Repeat.",
+          "check": "Every chip has a friend."
+        },
+        {
+          "instruction": "Bake until bubbly.",
+          "check": "Cheese is melted and bubbling.",
+          "timerSeconds": 480
+        },
+        {
+          "instruction": "Spoon salsa and jalapeños on top.",
+          "check": "Eat from the pan. Done!"
+        }
+      ],
+      "panicFixes": {
+        "burning": "Chips brown fast. Pull it out the moment the cheese melts."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "lazy-lentil-dal",
+      "name": "Lazy Lentil Dal",
+      "emoji": "🫘",
+      "diet": "vegan",
+      "moods": [
+        "cozy",
+        "spicy"
+      ],
+      "minutes": 30,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 4,
+      "contains": [
+        "lentils",
+        "coconut"
+      ],
+      "ingredients": [
+        {
+          "name": "Red lentils",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Can of coconut milk",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Curry powder",
+          "quantity": 2,
+          "unit": "tsp",
+          "pantry": true
+        },
+        {
+          "name": "Jarred minced garlic",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegetable stock cube",
+          "quantity": 1
+        },
+        {
+          "name": "Naan or rice",
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Rinse the lentils in a sieve.",
+          "check": "Water runs mostly clear."
+        },
+        {
+          "instruction": "Put lentils, coconut milk, curry powder, garlic, stock cube and 2 cups water in the pot.",
+          "check": "Everything's in. Stir."
+        },
+        {
+          "instruction": "Bring to a boil, then turn down low and simmer. Stir sometimes.",
+          "check": "Lentils go soft and mushy.",
+          "timerSeconds": 1200
+        },
+        {
+          "instruction": "Taste and add salt.",
+          "check": "Thick like porridge. Done! Scoop with naan."
+        }
+      ],
+      "panicFixes": {
+        "sticking": "Lentils love the pot bottom. Add a splash of water and stir from the bottom every few minutes.",
+        "watery": "Lid off, simmer 5 more minutes. Lentils thicken a lot."
+      },
+      "baseServings": 2,
+      "allergens": []
+    },
+    {
+      "id": "avocado-chickpea-toast",
+      "name": "Avocado Smash Toast",
+      "emoji": "🥑",
+      "diet": "vegan",
+      "moods": [
+        "fresh"
+      ],
+      "minutes": 5,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 bowl",
+      "priceUSD": 4,
+      "allergens": [
+        "gluten"
+      ],
+      "contains": [
+        "avocado"
+      ],
+      "ingredients": [
+        {
+          "name": "Ripe avocado",
+          "quantity": 1
+        },
+        {
+          "name": "Bread slices",
+          "quantity": 2
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Chili flakes",
+          "note": "a pinch",
+          "pantry": true
+        },
+        {
+          "name": "Salt",
+          "note": "a pinch",
+          "pantry": true
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Toast the bread.",
+          "check": "Golden and sturdy."
+        },
+        {
+          "instruction": "Halve the avocado (butter knife is fine), scoop it into a bowl and mash with lemon and salt.",
+          "check": "Creamy with a few lumps."
+        },
+        {
+          "instruction": "Spread it thick and sprinkle chili flakes.",
+          "check": "Our mascot approves. Done!"
+        }
+      ],
+      "panicFixes": {
+        "bland": "More salt. Seriously. Then more lemon.",
+        "missing": "Avocado too hard? Swap for hummus tonight and leave the avocado on the counter."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "peanut-coconut-ramen",
+      "name": "Creamy Peanut Ramen",
+      "emoji": "🍥",
+      "diet": "vegan",
+      "moods": [
+        "cozy",
+        "spicy"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 5,
+      "allergens": [
+        "gluten",
+        "peanuts",
+        "soy"
+      ],
+      "contains": [
+        "peanutButter",
+        "coconut"
+      ],
+      "ingredients": [
+        {
+          "name": "Instant ramen noodles (vegan flavour or toss the packet)",
+          "quantity": 2,
+          "unit": "blocks"
+        },
+        {
+          "name": "Peanut butter",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sriracha",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Frozen spinach",
+          "quantity": 1,
+          "unit": "cup"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Boil 3 cups of water in the pot.",
+          "check": "Big rolling bubbles."
+        },
+        {
+          "instruction": "Add noodles and spinach.",
+          "check": "Noodles loosen.",
+          "timerSeconds": 180
+        },
+        {
+          "instruction": "Turn heat to low. Stir in peanut butter, coconut milk, soy sauce and sriracha.",
+          "check": "Broth turns creamy and orange-ish. Done!"
+        }
+      ],
+      "panicFixes": {
+        "tooSpicy": "More coconut milk, less sriracha next time.",
+        "watery": "Stir in another spoon of peanut butter."
+      },
+      "baseServings": 2
+    },
+    {
+      "id": "frozen-dumpling-soup",
+      "name": "Dumpling Soup Cheat",
+      "emoji": "🥟",
+      "diet": "vegan",
+      "moods": [
+        "cozy"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 pot",
+      "priceUSD": 7,
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "ingredients": [
+        {
+          "name": "Frozen veggie dumplings (check vegan)",
+          "quantity": 12
+        },
+        {
+          "name": "Vegetable stock cube",
+          "quantity": 1
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Frozen spinach or bok choy",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Chili oil",
+          "note": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Boil 4 cups of water with the stock cube.",
+          "check": "Stock cube fully melted."
+        },
+        {
+          "instruction": "Drop in the frozen dumplings and greens.",
+          "check": "Dumplings float to the top.",
+          "timerSeconds": 360
+        },
+        {
+          "instruction": "Add soy sauce and a drizzle of chili oil.",
+          "check": "Smells like takeout. Done!"
+        }
+      ],
+      "panicFixes": {
+        "sticking": "Dumplings sticking to the bottom? Give a gentle stir right after they go in."
+      },
+      "baseServings": 2,
+      "contains": []
+    },
+    {
+      "id": "no-stove-burrito-bowl",
+      "name": "No-Stove Burrito Bowl",
+      "emoji": "🥙",
+      "diet": "vegan",
+      "moods": [
+        "fresh",
+        "spicy"
+      ],
+      "minutes": 10,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 bowl",
+      "priceUSD": 6,
+      "contains": [
+        "beans"
+      ],
+      "ingredients": [
+        {
+          "name": "Microwave rice pouches",
+          "quantity": 2
+        },
+        {
+          "name": "Can of black beans, drained",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Can of corn, drained",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Jar of salsa",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Lime juice",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Tortilla chips",
+          "note": "for crunch"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Microwave the rice pouches.",
+          "check": "Hot and fluffy.",
+          "timerSeconds": 90
+        },
+        {
+          "instruction": "Rinse beans and corn in a sieve.",
+          "check": "No goopy can liquid."
+        },
+        {
+          "instruction": "Bowl it up: rice, beans, corn, salsa, lime.",
+          "check": "Colourful and messy."
+        },
+        {
+          "instruction": "Crush chips on top.",
+          "check": "Crunch on every bite. Done!"
+        }
+      ],
+      "panicFixes": {
+        "bland": "Salt and more lime. Then more salsa."
+      },
+      "baseServings": 2,
+      "allergens": []
+    },
+    {
+      "id": "caprese-pita-pizza",
+      "name": "Pita Pizza",
+      "emoji": "🍕",
+      "diet": "vegetarian",
+      "moods": [
+        "cheesy"
+      ],
+      "minutes": 15,
+      "noChop": true,
+      "dishes": 1,
+      "dishesLabel": "1 tray",
+      "priceUSD": 6,
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "ingredients": [
+        {
+          "name": "Pita breads",
+          "quantity": 2
+        },
+        {
+          "name": "Pizza or marinara sauce",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Shredded mozzarella",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Dried oregano",
+          "note": "a sprinkle",
+          "pantry": true
+        },
+        {
+          "name": "Toppings you have (olives, corn, spinach)",
+          "note": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "instruction": "Turn the oven to 220°C / 425°F.",
+          "check": "Wait for the beep."
+        },
+        {
+          "instruction": "Spread sauce on the pitas, top with cheese, oregano and toppings.",
+          "check": "Cheese all the way to the edges."
+        },
+        {
+          "instruction": "Bake right on the tray.",
+          "check": "Cheese is bubbling with brown spots.",
+          "timerSeconds": 480
+        },
+        {
+          "instruction": "Let it cool for 1 minute, then slice.",
+          "check": "Lava cheese has settled. Done!"
+        }
+      ],
+      "panicFixes": {
+        "burning": "Edges dark but cheese not melted? Move the tray lower and give it 2 more minutes."
+      },
+      "baseServings": 2,
+      "contains": []
+    }
+  ],
+  "panicCategories": [
+    {
+      "id": "burning",
+      "emoji": "🔥",
+      "label": "It smells burnt or it's smoking",
+      "genericFix": "Slide the pan onto a cold burner and turn the knob off. Don't scrape the black bits in. Taste the top layer: it's usually fine."
+    },
+    {
+      "id": "sticking",
+      "emoji": "🫠",
+      "label": "Everything's stuck to the bottom",
+      "genericFix": "Pour in 2 tablespoons of water and scrape the bottom with your spoon while it sizzles. The stuck bits become flavour."
+    },
+    {
+      "id": "bland",
+      "emoji": "😐",
+      "label": "It tastes like cardboard",
+      "genericFix": "Add a big pinch of salt, stir, taste. Still meh? A squeeze of lemon or a splash of vinegar wakes almost anything up."
+    },
+    {
+      "id": "tooSalty",
+      "emoji": "🧂",
+      "label": "Way too salty",
+      "genericFix": "Stir in something plain: a splash of water, more of the main ingredient, or a dollop of yogurt or a squeeze of lemon to balance it."
+    },
+    {
+      "id": "tooSpicy",
+      "emoji": "🥵",
+      "label": "Too spicy, mouth on fire",
+      "genericFix": "Add something creamy or sweet: a spoon of yogurt, coconut milk, peanut butter or a pinch of sugar. Eat it with bread or rice."
+    },
+    {
+      "id": "watery",
+      "emoji": "💧",
+      "label": "It's too runny / watery",
+      "genericFix": "Let it bubble uncovered for 3 to 5 more minutes, stirring now and then. It thickens as the water cooks off."
+    },
+    {
+      "id": "missing",
+      "emoji": "🤷",
+      "label": "I'm missing an ingredient",
+      "genericFix": "Skip it if it's a topping or spice. Missing a main thing? Any can of beans, frozen veg or cheese you have can usually step in."
+    }
+  ]
+}
